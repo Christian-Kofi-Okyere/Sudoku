@@ -1,3 +1,9 @@
+/*
+ * Author: Christian Okyere
+ * Title: Solving Sudoku
+ * File: LinkedListTests.java
+ */
+
 public class LinkedListTests {
 
     public static void main(String[] args) {
