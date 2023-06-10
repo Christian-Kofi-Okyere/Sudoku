@@ -1,12 +1,8 @@
 /*
 * Author: Christian Okyere
 * Title: Solving Sudoku
-* Date: 03/06/2023
-* CS 231
-* Section B
 * File: Sudoku.java
 */
-
 
 // solves the sudoku game
 
