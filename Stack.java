@@ -1,10 +1,6 @@
-
 /*
  * Author: Christian Okyere
  * Title: Solving Sudoku 
- * Date: 03/05/2023
- * CS 231
- * Section B
  * File: Stack.java
  */
 public interface Stack<T> {
